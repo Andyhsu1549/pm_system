@@ -1,5 +1,5 @@
-streamlit==1.39.0
-gspread==6.1.2
-google-auth==2.29.0
-dropbox==11.36.0
-pandas==2.2.2
+streamlit>=1.38
+gspread>=6.0
+google-auth>=2.20
+dropbox>=11.0
+pandas>=2.0
